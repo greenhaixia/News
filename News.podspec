@@ -14,7 +14,6 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "greenhaixia" => "jiangruigreen@163.com" }
   s.platform     = :ios
-  s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/greenhaixia/News.git", :tag => s.version }
 
   s.source_files  = "Source/*.swift"
