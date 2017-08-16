@@ -235,6 +235,7 @@
 					};
 					E6A980AC1F43DBBF0033F0D8 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 0830;
 						TestTargetID = E6A980981F43DBBF0033F0D8;
 					};
 					E6A980C01F43DC350033F0D8 = {
