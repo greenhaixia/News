@@ -6,8 +6,13 @@
 //  Copyright © 2017 上海猎鹰网络有限公司. All rights reserved.
 //
 
+
 import Foundation
 
+/*
+* Add comment
+* Pull request
+*/
 class NewsModel {
     var id: Int = 0
     var title: String = ""
